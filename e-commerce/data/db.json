@@ -1,0 +1,90 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "title": "Cambio de título",
+      "price": 100000,
+      "description": "Nueva descripción",
+      "image": "https://placeimg.com/640/480/any?r=0.8807778235430017",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://placeimg.com/640/480/any?r=0.9178516507833767",
+        "images": [
+          "https://api.lorem.space/image?w=640&h=480&r=4810",
+          "https://api.lorem.space/image?w=640&h=480&r=8494",
+          "https://api.lorem.space/image?w=640&h=480&r=7961"
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Fantastic Steel Chicken",
+      "price": 146,
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "image": "https://placeimg.com/640/480/any?r=0.9178516507833767",
+
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://placeimg.com/640/480/any?r=0.9178516507833767"
+      },
+      "images": [
+        "https://api.lorem.space/image?w=640&h=480&r=4810",
+        "https://api.lorem.space/image?w=640&h=480&r=8494",
+        "https://api.lorem.space/image?w=640&h=480&r=7961"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Handcrafted Steel Car",
+      "price": 307,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "image": "https://placeimg.com/640/480/any?r=0.9178516507833767",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://placeimg.com/640/480/any?r=0.9178516507833767"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=3290",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=3445",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=5312"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Handcrafted Metal Cheese",
+      "price": 204,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "image": "https://placeimg.com/640/480/any?r=0.9178516507833767",
+      "category": {
+        "id": 2,
+        "name": "Electronics",
+        "image": "https://placeimg.com/640/480/any?r=0.8807778235430017"
+      },
+      "images": [
+        "https://api.lorem.space/image/watch?w=640&h=480&r=8772",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=7362",
+        "https://api.lorem.space/image/watch?w=640&h=480&r=5074"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Handmade Fresh Table",
+      "price": 687,
+      "description": "Andy shoes are designed to keeping in...",
+      "image": "https://placeimg.com/640/480/any?r=0.9178516507833767",
+      "category": {
+        "id": 5,
+        "name": "Others",
+        "image": "https://placeimg.com/640/480/any?r=0.591926261873231"
+      },
+      "images": [
+        "https://placeimg.com/640/480/any?r=0.9178516507833767",
+        "https://placeimg.com/640/480/any?r=0.9300320592588625",
+        "https://placeimg.com/640/480/any?r=0.8807778235430017"
+      ]
+    }
+  ]
+}
